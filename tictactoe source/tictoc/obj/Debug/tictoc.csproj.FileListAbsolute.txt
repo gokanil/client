@@ -1,0 +1,146 @@
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\documents\visual studio 2015\Projects\tictoc\tictoc\obj\Debug\tictoc.FormOdaAyarlari.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc - Kopya\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.2\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.3\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.4 (odakurlar bekleme)\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.5 (geridon) 1.2\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.FormTictactoeOyna.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu )\tictoc\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.FormTictactoeOyna.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.6 (olanlar Hazır tuşu ) no sql\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormTictactoeOyna.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Documents\Visual Studio 2015\Projects\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.exe.config
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.exe
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.exe
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\bin\Debug\tictoc.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.Form1.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormGiris.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormKayit.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormOdalar.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.FormTictactoeOyna.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.Properties.Resources.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\Yeni klasör\tictoc 1.7 (olanlar_- oynanıyor) (olmayanlar_- ip sorunu) nosql\tictoc\obj\Debug\tictoc.csproj.GenerateResource.Cache
